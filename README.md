@@ -8,7 +8,7 @@ Ilustrações originais são armazenadas na pasta assets; tabelas e demais *data
 Para ajudar ou acompanhar demandas, usar [*issues*](https://github.com/CidadeAmarela/guia-config-servers/issues).
 
 
-# Especificações *
+# Especificações #
 
 * Dados do servidor
 
@@ -26,3 +26,7 @@ Para ajudar ou acompanhar demandas, usar [*issues*](https://github.com/CidadeAma
 * Referências
 
 
+-----
+
+
+![[CC-BY-SA v3.0](https://creativecommons.org/licenses/by-sa/3.0/deed.pt_BR)](https://upload.wikimedia.org/wikipedia/commons/a/a9/CC-BY-SA.png)
