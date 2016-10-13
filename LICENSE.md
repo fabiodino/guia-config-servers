@@ -7,8 +7,6 @@
 
 * Software e algoritmos: [MIT](https://opensource.org/licenses/MIT) (*Copyright (c) 2016 Cidade Amarela*).
 
-[![License: CC0](https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/CC0_button.svg/88px-CC0_button.svg.png)](http://creativecommons.org/publicdomain/zero/1.0)
-
 
 #  Licenses #
 
