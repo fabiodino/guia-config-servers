@@ -8,23 +8,17 @@ Ilustrações originais são armazenadas na pasta assets; tabelas e demais *data
 Para ajudar ou acompanhar demandas, usar [*issues*](https://github.com/CidadeAmarela/guia-config-servers/issues).
 
 
-# Especificações #
+# ESPECIFICAÇÕES #
 
-* Dados do servidor
+* [Requisitos gerais](https://github.com/CidadeAmarela/guia-config-servers/wiki/Requisitos-gerais)
 
-* Configuração e instalação dos serviços
+* [Instalação e configuração](#)
 
- * Apache
- * Email Server
- * Postfix, Dovecot e Postfix Admin
- * Docker
+* [Backups](#)
 
-* Backup de Wordpress
+* [Testes de restauro dos backups](#)
 
-* Restauro de Wordpress
-
-* Referências
-
+* [Referências de apoio](#)
 
 -----
 
